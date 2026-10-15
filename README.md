@@ -1,0 +1,2 @@
+# StreamReaderIEnumerable
+lectura fitxer IEnumerable
